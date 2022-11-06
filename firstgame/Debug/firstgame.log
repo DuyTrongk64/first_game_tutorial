@@ -1,2 +1,5 @@
 ﻿  game.cpp
+C:\Users\Admin\Documents\chicken\newgame SFML\firstgame\game.cpp(184,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\chicken\newgame SFML\firstgame\game.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Documents\chicken\newgame SFML\firstgame\game.cpp(226,22): warning C4244: '+=': conversion from 'float' to 'unsigned int', possible loss of data
   firstgame.vcxproj -> C:\Users\Admin\Documents\chicken\newgame SFML\firstgame\Debug\firstgame.exe
